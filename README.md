@@ -32,22 +32,22 @@
 
 ### Installed Kernel Extensions (Kext) List
 
-- [x] AirportItlwm.kext
-- [x] AppleALC.kext
-- [x] BlueToolFixup.kext
-- [x] BrightnessKeys.kext
-- [x] CpuTscSync.kext
-- [x] IntelBluetoothFirmware.kext
-- [x] IntelBTPatcher.kext
-- [x] Lilu.kext
-- [x] RealtekRTL8111.kext
-- [x] SMCBatteryManager.kext
-- [x] SMCProcessor.kext
-- [x] USBPorts.kext
-- [x] VirtualSMC.kext
-- [x] VoodooI2C.kext
-- [x] VoodooI2CHID.kext
-- [x] WhateverGreen.kext
+- [x] [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
+- [x] [AppleALC](https://github.com/acidanthera/AppleALC)
+- [x] [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)
+- [x] [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)
+- [x] [CpuTscSync](https://github.com/acidanthera/CpuTscSync)
+- [x] [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [x] [IntelBTPatcher](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [x] [Lilu](https://github.com/acidanthera/Lilu)
+- [x] [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
+- [x] [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC)
+- [x] [SMCProcessor](https://github.com/acidanthera/VirtualSMC)
+- [x] USBPorts
+- [x] [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+- [x] [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C/releases)
+- [x] [VoodooI2CHID](https://github.com/VoodooI2C/VoodooI2C/releases)
+- [x] [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 
 
 ### ACPI SSDT List
@@ -63,4 +63,4 @@
 
 ## About
 
-MIT License 分发时请保留 [原作者链接](https://github.com/1orz/y7000p-2020H-macOS-EFI)https://github.com/1orz/y7000p-2020H-macOS-EFI
+MIT License 分发时请保留 [本文链接](https://github.com/1orz/y7000p-2020H-macOS-EFI)https://github.com/1orz/y7000p-2020H-macOS-EFI
