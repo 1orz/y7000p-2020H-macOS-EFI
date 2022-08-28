@@ -12,7 +12,7 @@
 
 - 硬盘: Western Digital Blue SN550 1TB (SSD M2.NVMe) + Samsung 980 1TB (SSD M2.NVMe)
 
-- 显卡: NVIDIA GeForce GTX 1660 Ti 6GB GDDR6
+- 显卡: NVIDIA GeForce GTX 2060 6GB GDDR6
 
 - 有线网卡: RTL8111
 
@@ -29,6 +29,7 @@
 - [x] Bluetooth
 - [x] 屏蔽独显
 - [x] 硬盘
+- [x] Type-c Port
 
 ### Installed Kernel Extensions (Kext) List
 
@@ -61,6 +62,6 @@
 - [x] SSDT-PMCR.aml
 - [x] SSDT-PNLF.aml
 
-## About
+## License
 
-MIT License 分发时请保留 [本文链接](https://github.com/1orz/y7000p-2020H-macOS-EFI)https://github.com/1orz/y7000p-2020H-macOS-EFI
+License 分发时请保留 [本文链接](https://github.com/1orz/y7000p-2020H-macOS-EFI)https://github.com/1orz/y7000p-2020H-macOS-EFI
